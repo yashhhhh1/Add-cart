@@ -1,0 +1,274 @@
+[
+  {
+    "product_name": "Honor 9 Lite (Sapphire Blue, 64 GB)  (4 GB RAM)",
+    "product_brand": "Honor",
+    "product_price": "14499.00",
+    "product_ram": "4",
+    "product_storage": "64",
+    "product_camera": "13",
+    "product_image": "image-1.jpeg",
+    "product_quantity": 10,
+    "product_status": "1"
+  },
+  {
+    "product_name": "Infinix Hot S3 (Sandstone Black, 32 GB)  (3 GB RAM)",
+    "product_brand": "Infinix",
+    "product_price": "8999.00",
+    "product_ram": "3",
+    "product_storage": "32",
+    "product_camera": "13",
+    "product_image": "image-2.jpeg",
+    "product_quantity": 10,
+    "product_status": "1"
+  },
+  {
+    "product_name": "VIVO V9 Youth (Gold, 32 GB)  (4 GB RAM)",
+    "product_brand": "VIVO",
+    "product_price": "16990.00",
+    "product_ram": "4",
+    "product_storage": "32",
+    "product_camera": "16",
+    "product_image": "image-3.jpeg",
+    "product_quantity": 10,
+    "product_status": "1"
+  },
+  {
+    "product_name": "Moto E4 Plus (Fine Gold, 32 GB)  (3 GB RAM)",
+    "product_brand": "Moto",
+    "product_price": "11499.00",
+    "product_ram": "3",
+    "product_storage": "32",
+    "product_camera": "8",
+    "product_image": "image-4.jpeg",
+    "product_quantity": 10,
+    "product_status": "1"
+  },
+  {
+    "product_name": "Lenovo K8 Plus (Venom Black, 32 GB)  (3 GB RAM)",
+    "product_brand": "Lenevo",
+    "product_price": "9999.00",
+    "product_ram": "3",
+    "product_storage": "32",
+    "product_camera": "13",
+    "product_image": "image-5.jpg",
+    "product_quantity": 10,
+    "product_status": "1"
+  },
+  {
+    "product_name": "Samsung Galaxy On Nxt (Gold, 16 GB)  (3 GB RAM)",
+    "product_brand": "Samsung",
+    "product_price": "10990.00",
+    "product_ram": "3",
+    "product_storage": "16",
+    "product_camera": "13",
+    "product_image": "image-6.jpeg",
+    "product_quantity": 10,
+    "product_status": "1"
+  },
+  {
+    "product_name": "Moto C Plus (Pearl White, 16 GB)  (2 GB RAM)",
+    "product_brand": "Moto",
+    "product_price": "7799.00",
+    "product_ram": "2",
+    "product_storage": "16",
+    "product_camera": "8",
+    "product_image": "image-7.jpeg",
+    "product_quantity": 10,
+    "product_status": "1"
+  },
+  {
+    "product_name": "Panasonic P77 (White, 16 GB)  (1 GB RAM)",
+    "product_brand": "Panasonic",
+    "product_price": "5999.00",
+    "product_ram": "1",
+    "product_storage": "16",
+    "product_camera": "8",
+    "product_image": "image-8.jpeg",
+    "product_quantity": 10,
+    "product_status": "1"
+  },
+  {
+    "product_name": "OPPO F5 (Black, 64 GB)  (6 GB RAM)",
+    "product_brand": "OPPO",
+    "product_price": "19990.00",
+    "product_ram": "6",
+    "product_storage": "64",
+    "product_camera": "16",
+    "product_image": "image-9.jpeg",
+    "product_quantity": 10,
+    "product_status": "1"
+  },
+  {
+    "product_name": "Honor 7A (Gold, 32 GB)  (3 GB RAM)",
+    "product_brand": "Honor",
+    "product_price": "8999.00",
+    "product_ram": "3",
+    "product_storage": "32",
+    "product_camera": "13",
+    "product_image": "image-10.jpeg",
+    "product_quantity": 10,
+    "product_status": "1"
+  },
+  {
+    "product_name": "Asus ZenFone 5Z (Midnight Blue, 64 GB)  (6 GB RAM)",
+    "product_brand": "Asus",
+    "product_price": "29999.00",
+    "product_ram": "6",
+    "product_storage": "128",
+    "product_camera": "12",
+    "product_image": "image-12.jpeg",
+    "product_quantity": 10,
+    "product_status": "1"
+  },
+  {
+
+    "product_name": "Redmi 5A (Gold, 32 GB)  (3 GB RAM)",
+    "product_brand": "MI",
+    "product_price": "5999.00",
+    "product_ram": "3",
+    "product_storage": "32",
+    "product_camera": "13",
+    "product_image": "image-12.jpeg",
+    "product_quantity": 10,
+    "product_status": "1"
+  },
+  {
+
+    "product_name": "Intex Indie 5 (Black, 16 GB)  (2 GB RAM)",
+    "product_brand": "Intex",
+    "product_price": "4999.00",
+    "product_ram": "2",
+    "product_storage": "16",
+    "product_camera": "8",
+    "product_image": "image-13.jpeg",
+    "product_quantity": 10,
+    "product_status": "1"
+  },
+  {
+
+    "product_name": "Google Pixel 2 XL (18:9 Display, 64 GB) White",
+    "product_brand": "Google",
+    "product_price": "61990.00",
+    "product_ram": "4",
+    "product_storage": "64",
+    "product_camera": "12",
+    "product_image": "image-14.jpeg",
+    "product_quantity": 10,
+    "product_status": "1"
+  },
+  {
+
+    "product_name": "Samsung Galaxy A9",
+    "product_brand": "Samsung",
+    "product_price": "36000.00",
+    "product_ram": "8",
+    "product_storage": "128",
+    "product_camera": "24",
+    "product_image": "image-15.jpeg",
+    "product_quantity": 10,
+    "product_status": "1"
+  },
+  {
+
+    "product_name": "Lenovo A5",
+    "product_brand": "Lenovo",
+    "product_price": "5999.00",
+    "product_ram": "2",
+    "product_storage": "16",
+    "product_camera": "13",
+    "product_image": "image-16.jpeg",
+    "product_quantity": 10,
+    "product_status": "1"
+  },
+  {
+
+    "product_name": "Asus Zenfone Lite L1",
+    "product_brand": "Asus",
+    "product_price": "5999.00",
+    "product_ram": "2",
+    "product_storage": "16",
+    "product_camera": "13",
+    "product_image": "image-17.jpeg",
+    "product_quantity": 10,
+    "product_status": "1"
+  },
+  {
+
+    "product_name": "Lenovo K9",
+    "product_brand": "Lenovo",
+    "product_price": "8999.00",
+    "product_ram": "3",
+    "product_storage": "32",
+    "product_camera": "13",
+    "product_image": "image-18.jpeg",
+    "product_quantity": 10,
+    "product_status": "1"
+  },
+  {
+
+    "product_name": "Infinix Hot S3x",
+    "product_brand": "Infinix",
+    "product_price": "9999.00",
+    "product_ram": "3",
+    "product_storage": "32",
+    "product_camera": "13",
+    "product_image": "image-19.jpeg",
+    "product_quantity": 10,
+    "product_status": "1"
+  },
+  {
+    "product_name": "Realme 2",
+    "product_brand": "Realme",
+    "product_price": "8990.00",
+    "product_ram": "4",
+    "product_storage": "64",
+    "product_camera": "13",
+    "product_image": "image-20.jpeg",
+    "product_quantity": 10,
+    "product_status": "1"
+  },
+  {
+    "product_name": "Redmi Note 6 Pro",
+    "product_brand": "Redmi",
+    "product_price": "13999.00",
+    "product_ram": "4",
+    "product_storage": "64",
+    "product_camera": "20",
+    "product_image": "image-21.jpeg",
+    "product_quantity": 10,
+    "product_status": "1"
+  },
+  {
+    "product_name": "Realme C1",
+    "product_brand": "Realme",
+    "product_price": "7999.00",
+    "product_ram": "2",
+    "product_storage": "16",
+    "product_camera": "15",
+    "product_image": "image-22.jpeg",
+    "product_quantity": 10,
+    "product_status": "1"
+  },
+  {
+    "product_name": "Honor 7S",
+    "product_brand": "Honor",
+    "product_price": "6999.00",
+    "product_ram": "2",
+    "product_storage": "16",
+    "product_camera": "13",
+    "product_image": "image-23.jpeg",
+    "product_quantity": 10,
+    "product_status": "1"
+  },
+  {
+    "product_name": "Samsung Galaxy J4 Plus",
+    "product_brand": "Samsung",
+    "product_price": "9490.00",
+    "product_ram": "2",
+    "product_storage": "32",
+    "product_camera": "13",
+    "product_image": "image-24.jpeg",
+    "product_quantity": 10,
+    "product_status": "1"
+  }
+]
